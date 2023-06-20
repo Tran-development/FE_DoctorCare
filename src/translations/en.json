@@ -1,0 +1,119 @@
+{
+    "home-header": {
+        "speciality": "Medical specialty",
+        "search-doctor": "Find a doctor by specialty",
+        "health-facility": "Health facility",
+        "select-room": "Choose a clinic hospital",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Checkup package",
+        "check-health": "General health examination",
+        "support": "Support",
+        "welcome" : "Welcome, "
+    },
+    "banner": {
+        "main-title": "TOTAL HEALTH CARE SOLUTION",
+        "sub-title": "Your Most Trusted Health Partner",
+        "child1": "Specialist examination",
+        "child2": "Remote examination",
+        "child3": "General examination",
+        "child4": "Medical tests",
+        "child5": "Mental health",
+        "child6": "Dental examination",
+        "child7": "Surgery package",
+        "child8": "Medical Products",
+        "child9": "Corporate health"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users System",
+            "manage-doctor": "Manage doctors",
+            "manage-admin": "Manage admins",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinics",
+            "manage-clinic": "Manage clinics",
+            "specialty": "Specialities",
+            "manage-specialty": "Manage specialties",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbooks"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's schedule",
+            "manage-patient": "Manage Doctor's patient"
+
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "image": "Avatar",
+        "save": "Save user",
+        "edit": "Save changes"
+    },
+    "homepage": {
+        "outstanding-doctor": "The featured doctor from last week",
+        "more-information": "More information",
+        "specialty-popular": "Popular specialties"
+    },
+    "manage-schedule": {
+        "title": "Manage the doctor's scheduled examinations",
+        "choose-doctor": "Choose a doctor",
+        "choose-date": "Choose date",
+        "save": "Save information"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "The doctor has no appointment during this time, please choose another time.",
+            "choose": "Choose ",
+            "book-free": " and book (free)"
+        },
+        "extra-infor-doctor" : {
+            "text-address": "Address of examination",
+            "price": "Examination price: ",
+            "detail": "View details",
+            "payment": "Patients can pay the cost by: ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal" : {
+            "title": "Information to schedule a medical appointment",
+            "fullName": "Full name",
+            "phoneNumber": "Phone number",
+            "email": "Email",
+            "address": "Address",
+            "reason": "Reason for medical examination",
+            "birthday": "Date of birth",
+            "gender": "Gender",
+            "btnSubmit": "Confirm",
+            "btnCancel": "Cancel",
+            "freeBooking": "Free booking",
+            "priceBooking": "Examination price: "
+        }
+    },
+    "admin": {
+        "manage-doctor" : {
+            "title": "Create more information doctors",
+            "select-doctor": "Select doctor:",
+            "intro": "Introduction:",
+            "add": "Create information",
+            "save": "Save information",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Name of the clinic",
+            "addressClinic": "Address of the clinic",
+            "note": "Note",
+            "specialty": "Specialtys",
+            "clinic": "Clinics"
+        }
+    }    
+}
